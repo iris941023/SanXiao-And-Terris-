@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/San Match-login.unity
+    guid: 028c2de65aeee374db529eda7081680f
+  - enabled: 1
+    path: Assets/Scenes/San Match.unity
+    guid: 996a5b615fd232046948696a7fcb5371
+  m_configObjects: {}
